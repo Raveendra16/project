@@ -1,7 +1,7 @@
 
 # News Research Tool 
 
-RockyBot is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
+the tool is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
 
 ![](rockybot.jpg)
 
@@ -23,7 +23,7 @@ RockyBot is a user-friendly news research tool designed for effortless informati
 2.Navigate to the project directory:
 
 ```bash
-  cd 2_news_research_tool_project
+  cd news_research_tool_project
 ```
 3. Install the required dependencies using pip:
 
